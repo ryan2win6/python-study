@@ -1,5 +1,5 @@
 import requests
-url = ""http://nadocoding.tistory.com"
+url = "http://nadocoding.tistory.com"
 headers = {"User-Agent" : "@@@@"}
 res = requests.get(url,headers)
 
